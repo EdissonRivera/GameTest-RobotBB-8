@@ -8,6 +8,9 @@
 ### JUEGO EJECUTABLE
 [GamePlay](https://drive.google.com/drive/folders/161yeBvA9Xxi1wgf4x38SEP5u5RlN2ipJ?usp=sharing)
 
+### Copia proyect Drive
+[Proyect Drive](https://drive.google.com/drive/folders/1JEQ5Nn4ABizuzjvxCS44PGJR-kSkCl4B?usp=sharing)
+
 Proyecto mecánicas robot BB-8
 
 Este proyecto está orientado a desarrollar un videojuego teniendo al personaje principal como una esfera en mi caso escogí al robot BB-8 con una serie de mecánicas las cuales consisten en poderse mover con las teclas AWSD y adicionalmente tener un Jetpack con algunas variables disponibles en el inspector para poder ser cambiadas a gusto del cliente.
