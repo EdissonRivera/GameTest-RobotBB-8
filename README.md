@@ -57,7 +57,7 @@ git clone https://github.com/EdissonRivera/TestRobot-BB-8.git
 
  
 
-Paso 5: Si desea hacer cambios a la velocidad y fuerza de salgo, ingresar a la scena GamePlay y seleccionar el player
+Paso 5: Si desea hacer cambios a la velocidad y fuerza de salto, ingresar a la scena GamePlay y seleccionar el player
 
 ![Untitled](README/Untitled%204.png)
 
