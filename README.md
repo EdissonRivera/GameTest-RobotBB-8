@@ -6,7 +6,7 @@
 [Notion documentación](https://cumbersome-glazer-727.notion.site/Test-ROBOT-BB-8-e598261f3d7f4daab1cd5818dcc2d9da)
 
 ### JUEGO EJECUTABLE
-[Notion documentación](https://drive.google.com/drive/folders/161yeBvA9Xxi1wgf4x38SEP5u5RlN2ipJ?usp=sharing)
+[GamePlay](https://drive.google.com/drive/folders/161yeBvA9Xxi1wgf4x38SEP5u5RlN2ipJ?usp=sharing)
 
 Proyecto mecánicas robot BB-8
 
