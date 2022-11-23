@@ -3103,7 +3103,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   maxFuel: 5
-  thrustForce: 0.3
+  thrustForce: 0.1
   currentFuel: 0
   Player: {fileID: 1849070538}
   effect:
